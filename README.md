@@ -21,6 +21,7 @@ Collection of software development related resources
 - Tokio: Asynchronous event framework
 - Actix / Actix-web: web framework (alternatives: Rocket, ...)
 - Yew: Yew is a modern Rust framework for creating multi-threaded front-end web apps with WebAssembly.
+- nphysics: 2D/3D real-time physics engine https://nphysics.org
 
 # Containers
 - distroless: https://medium.com/better-programming/how-to-harden-your-containers-with-distroless-docker-images-c2abd7c71fdb
