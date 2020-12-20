@@ -12,3 +12,6 @@
   - For websockets: Custom Header > Create: websocket
     - Upgrade : $http_upgrade
     - Connection : $connection_upgrade
+
+# NextCloud
+- https://techacademy.id.nl/blog/nextcloud-installeren-op-nas-voor-persoonlijke-cloud/
