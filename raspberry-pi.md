@@ -6,3 +6,6 @@
 
 ## Cluster
 - https://techacademy.id.nl/blog/bouw-je-eigen-raspberry-pi-cluster-met-deze-instructies/
+
+## Kubernetes
+- https://opensource.com/article/20/6/kubernetes-raspberry-pi
