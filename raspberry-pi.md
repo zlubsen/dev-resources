@@ -2,6 +2,7 @@
 
 ## General
 - https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi#1-overview
+- https://www.martinrowan.co.uk/2019/09/raspberry-pi-4-40mm-fan-comparison/
 
 ## PXE netboot
 - https://www.definit.co.uk/2020/03/pxe-booting-raspberry-pi-4-with-synology-and-ubiquiti-edgerouter/
