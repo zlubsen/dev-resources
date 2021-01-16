@@ -8,3 +8,4 @@
 
 # Possible future work
 - https://mariushosting.com/how-to-install-bitwarden-on-your-synology-nas/
+
