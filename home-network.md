@@ -5,3 +5,6 @@
 
 # Certificates
 - https://jamielinux.com/docs/openssl-certificate-authority/introduction.html
+
+# Possible future work
+- https://mariushosting.com/how-to-install-bitwarden-on-your-synology-nas/
