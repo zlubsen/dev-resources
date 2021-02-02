@@ -9,6 +9,7 @@
 - https://www.virtuallyghetto.com/2020/07/two-methods-to-network-boot-raspberry-pi-4.html
 - https://hackaday.com/2019/11/11/network-booting-the-pi-4/
 - https://www.raspberrypi.org/forums/viewtopic.php?t=252501
+- https://linuxhit.com/raspberry-pi-pxe-boot-netbooting-a-pi-4-without-an-sd-card/
 
 ## Cluster
 - https://techacademy.id.nl/blog/bouw-je-eigen-raspberry-pi-cluster-met-deze-instructies/
