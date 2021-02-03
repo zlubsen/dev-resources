@@ -6,6 +6,7 @@
 # Certificates
 - https://deliciousbrains.com/ssl-certificate-authority-for-local-https-development/
 - https://xenovation.com/blog/security/pki/creating-elliptic-curve-ecdh-key-with-openssl
+- https://www.digicert.com/easy-csr/openssl.htm (openssl command / csr generator)
 - https://www.sslshopper.com/article-most-common-openssl-commands.html
 - https://jamielinux.com/docs/openssl-certificate-authority/introduction.html
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-and-configure-a-certificate-authority-ca-on-ubuntu-20-04
