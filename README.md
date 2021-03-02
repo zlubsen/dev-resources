@@ -15,15 +15,6 @@ Collection of software development related resources
 - Framework7: UI Components library (support for many frameworks, among which Svelte)
 - Vercel design system (?)
 
-# Rust
-- Serde: library for serialization/deserialisation
-- Clap: command line parsing
-- Tokio: Asynchronous event framework
-- Actix / Actix-web: web framework (alternatives: Rocket, ...)
-- Yew: Yew is a modern Rust framework for creating multi-threaded front-end web apps with WebAssembly.
-- nphysics: 2D/3D real-time physics engine https://nphysics.org
-- A Gentle introduction to Rust: https://stevedonovan.github.io/rust-gentle-intro/readme.html
-
 # Containers
 - distroless: https://medium.com/better-programming/how-to-harden-your-containers-with-distroless-docker-images-c2abd7c71fdb
 - Google Jib (Build Java containers): https://github.com/GoogleContainerTools/jib/blob/master/README.md
