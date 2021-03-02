@@ -3,6 +3,7 @@
 ## Libraries
 - Serde: library for serialization/deserialisation
 - Clap: command line parsing
+- rustyline: interactive CLI, https://crates.io/crates/rustyline/ / https://github.com/kkawakam/rustyline
 - Tokio: Asynchronous event framework / Stack: Hyper, Tonic, Mio, Bytes, Tower
 - Actix / Actix-web: web framework (alternatives: Rocket, ...)
 - Yew: Yew is a modern Rust framework for creating multi-threaded front-end web apps with WebAssembly.
